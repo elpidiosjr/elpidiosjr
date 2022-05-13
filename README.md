@@ -1,4 +1,5 @@
-🖥️ Oi meu nome é Elpidio Soares Junior, sou estudante da Universidade Federal de Juiz de Fora - UFJF e estou cursando Bacharelado de Ciências Exatas/Ciência da Computação, atuo como Analista de Suporte desde 2020 e atuo como Tecnico de Informatica autônomo desde 2010, tenho 29 anos e estou buscando me especializar em Desenvolvimento Web. 📈👋
+                                                🖥️ Oi meu nome é Elpidio Soares Junior
+Sou estudante da Universidade Federal de Juiz de Fora - UFJF e estou cursando Bacharelado de Ciências Exatas/Ciência da Computação, atuo como Analista de Suporte desde 2020 e atuo como Tecnico de Informatica autônomo desde 2010, tenho 29 anos e estou buscando me especializar em Desenvolvimento Web. 📈👋
 
 <!--
 **elpidiosjr/elpidiosjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
