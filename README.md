@@ -1,4 +1,4 @@
-     <h1 align="center"> 🖥️ Oi meu nome é Elpidio Soares Junior </h1>
+<h1 align="center"> 🖥️ Oi meu nome é Elpidio Soares Junior </h1>
 <h3>Sou estudante da Universidade Federal de Juiz de Fora - UFJF e estou cursando Bacharelado de Ciências Exatas/Ciência da Computação, atuo como Analista de Suporte desde 2020 e atuo como Tecnico de Informatica autônomo desde 2010, tenho 29 anos e estou buscando me especializar em Desenvolvimento Web. 📈👋</h3>
 
 - 🎓 Cursando Bacharelado de Ciencias Exatas/Ciencia da Computação - UFJF
