@@ -1,10 +1,10 @@
 <h1 align="center">    Oi meu nome é Elpidio Soares Junior  </h1>
-<h3>Sou estudante da Universidade Federal de Juiz de Fora - UFJF e estou cursando Bacharelado de Ciências Exatas/Ciência da Computação 🖥️, atuo como Analista de Suporte desde 2019 e como Técnico de Informática desde 2010, tenho 29 anos e estou buscando alcançar os meus objetivos e adquirir novos<strong> conhecimentos. </strong> 📈</h3>
+<h3>Sou estudante da Universidade Federal de Juiz de Fora - UFJF e estou cursando Bacharelado de Ciências Exatas/Ciência da Computação 🖥️, atuo como Analista de Suporte desde 2019 e como Técnico de Informática desde 2010, tenho 32 anos e estou buscando alcançar os meus objetivos e adquirir novos<strong> conhecimentos. </strong> 📈</h3>
 
-- 🎓 Cursando Bacharelado de Ciencias Exatas- UFJF
+- 🎓 Cursando BCE / Ciência da Computação- UFJF
 - 🎓 HTML, CSS e JavaScript.
 - 🔭 Trabalhando como Analista de Suporte.
-- 🚀 Aprendendo com a RocketSeat, DIO e CursoemVideo.
+- 🚀 Aprendendo com a RocketSeat, DIO, CursoemVideo, Hotmart e outros.
 
 
 
